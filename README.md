@@ -109,7 +109,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 ---
 
 ## Dashboard Preview
-<img width="1080" height="583" alt="image" src="https://github.com/user-attachments/assets/9df70616-147a-4659-82fa-aaa872d93b70" />
+<img width="1082" height="590" alt="image" src="https://github.com/user-attachments/assets/d1158c99-0f8c-4c6f-af76-8c08c27c6a87" />
 <img width="1071" height="588" alt="image" src="https://github.com/user-attachments/assets/0771d050-43e3-4949-a2b7-ded14ec044ef" />
 
 ---
@@ -117,4 +117,4 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 ## Author
 
 **Aman Mishra**
-Skills: Python | SQL | Power BI | PostgreSQL
+NSUT
