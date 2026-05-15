@@ -13,7 +13,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -24,20 +24,20 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-📦 Customer-Behaviour-Analysis
- ┣ 📄 customer_shopping_behavior.csv     # Raw dataset (5000 records, 17 columns)
- ┣ 📓 Customer_Behavior.ipynb            # Python EDA & Data Cleaning
- ┣ 🗄️ Business_Questions.sql            # 12 SQL Business Queries
- ┣ 📊 Customer-Behavior-Analysis.pbix   # Power BI Dashboard
- ┗ 📄 Report-Customer Behavior Analysis.pdf  # Full Project Report
+ Customer-Behaviour-Analysis
+ ┣ customer_shopping_behavior.csv     # Raw dataset (5000 records, 17 columns)
+ ┣ Customer_Behavior.ipynb            # Python EDA & Data Cleaning
+ ┣ Business_Questions.sql            # 12 SQL Business Queries
+ ┣ Customer-Behavior-Analysis.pbix   # Power BI Dashboard
+ ┗ Report-Customer Behavior Analysis.pdf  # Full Project Report
 ```
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Type:** E-commerce
 - **Records:** 5,000 customers
@@ -45,7 +45,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 🐍 Phase 1 — Python (EDA & Data Cleaning)
+##  Phase 1 — Python (EDA & Data Cleaning)
 
 - Loaded and explored the raw dataset
 - Fixed category inconsistencies using a mapping dictionary
@@ -60,7 +60,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 🗄️ Phase 2 — SQL (Business Insights)
+## Phase 2 — SQL (Business Insights)
 
 12 business questions answered using PostgreSQL:
 
@@ -81,7 +81,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 📈 Phase 3 — Power BI Dashboard
+## Phase 3 — Power BI Dashboard
 
 **Page 1 — Customer Analysis Revenue**
 - KPI Cards: Total Customers, Unique Items, Avg Rating, Total Spend, Avg Spend
@@ -96,25 +96,25 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
-- 📦 **Electronics** drives 49% of total revenue
-- 💳 **Subscribers** spend 63% more than non-subscribers ($270 vs $165)
-- 🏷️ **Discounts** increase average spend by 20% — they are profitable
-- 👴 **51+ age group** contributes 40% of total revenue
-- 🔁 **62% of customers** are loyal (10+ purchases)
-- ⭐ **Phone** has the lowest rating (2.94) — needs quality improvement
-- 📍 **New York** generates the highest location revenue
+- **Electronics** drives 49% of total revenue
+- **Subscribers** spend 63% more than non-subscribers ($270 vs $165)
+- **Discounts** increase average spend by 20% — they are profitable
+- **51+ age group** contributes 40% of total revenue
+- **62% of customers** are loyal (10+ purchases)
+- **Phone** has the lowest rating (2.94) — needs quality improvement
+- **New York** generates the highest location revenue
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 <img width="1080" height="583" alt="image" src="https://github.com/user-attachments/assets/9df70616-147a-4659-82fa-aaa872d93b70" />
 <img width="1071" height="588" alt="image" src="https://github.com/user-attachments/assets/0771d050-43e3-4949-a2b7-ded14ec044ef" />
 
 ---
 
-## 👤 Author
+## Author
 
 **Aman Mishra**
 Skills: Python | SQL | Power BI | PostgreSQL
