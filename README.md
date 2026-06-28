@@ -55,13 +55,13 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
   - `Previous Purchases` → Filled with 0
 - Removed duplicate records by Customer ID
 - Standardized column names to snake_case
-- Exported cleaned data to PostgreSQL using SQLAlchemy
+- Exported cleaned data to MySQL using SQLAlchemy
 
 ---
 
 ## Phase 2 — SQL (Business Insights)
 
-12 business questions answered using PostgreSQL:
+12 business questions answered using MySQL:
 
 1. Which category generates the highest revenue?
 2. Are discounts actually increasing purchase value?
@@ -110,7 +110,8 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 ---
 
 ## Dashboard Preview
-<img width="1082" height="590" alt="image" src="https://github.com/user-attachments/assets/d1158c99-0f8c-4c6f-af76-8c08c27c6a87" />
+<img width="1093" height="593" alt="image" src="https://github.com/user-attachments/assets/69fe37d5-cca7-4575-bca7-318e3febf23e" />
+
 <img width="1071" height="588" alt="image" src="https://github.com/user-attachments/assets/0771d050-43e3-4949-a2b7-ded14ec044ef" />
 
 ---
