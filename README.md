@@ -17,7 +17,7 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 | Tool | Purpose |
 |------|---------|
 | Python (Pandas) | Data Cleaning & EDA |
-| PostgreSQL | Data Storage & SQL Analysis |
+| MySQL | Data Storage & SQL Analysis |
 | SQLAlchemy | Python to Database Pipeline |
 | Power BI | Interactive Dashboard |
 
@@ -110,7 +110,8 @@ In the E-Commerce Industry, understanding customer behaviour is critical for bus
 ---
 
 ## Dashboard Preview
-<img width="1093" height="593" alt="image" src="https://github.com/user-attachments/assets/69fe37d5-cca7-4575-bca7-318e3febf23e" />
+<img width="1033" height="569" alt="image" src="https://github.com/user-attachments/assets/c26f39f8-5a02-446a-9000-bd18683c7af3" />
+
 
 <img width="1071" height="588" alt="image" src="https://github.com/user-attachments/assets/0771d050-43e3-4949-a2b7-ded14ec044ef" />
 
